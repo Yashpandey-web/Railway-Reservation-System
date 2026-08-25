@@ -90,3 +90,17 @@ trains.dat
 passengers.dat
 reservations.dat
 admin.dat
+
+---
+
+## 👨‍💻 Author
+
+**Yash Pandey**
+
+Built with ❤️ using C.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving the repository a ⭐ on GitHub.
